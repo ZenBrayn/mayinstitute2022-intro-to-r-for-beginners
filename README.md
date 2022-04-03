@@ -1,5 +1,7 @@
 # May Institute 2022 – Introduction to R for Beginners
 
+## ~~ TENTATIVE - INFORMATION AND MATERIALS IN PROGRESS ~~
+
 **Date**: May 13th & 14th, 2022
 
 **Time**: 11:00 AM – 2:15 PM (Eastern Time)
@@ -15,7 +17,7 @@ This hands-on workshop will cover essential basics of the [R Programming Languag
 * How to work with RStudio
 * How to write and execute R code
 * R Coding essentials
-  * variable and variable assignment
+  * variables and variable assignment
   * vectors
   * functions
   * conditional expressions
@@ -67,15 +69,15 @@ Both options are free, and either or both can be used.  Please see the additiona
     1. Select *Tools -> Install Packages...*
     2. In the "Packages" text box, type `tidyverse`
     3. Click Install
-    4. Important: if a message in the R console asks if you want to install packages from source, type 'no' and press return/enter.
+    4. *Important*: if a message in the R console asks if you want to install packages from source, type 'no' and press return/enter.
     5. Get a cup of tea or coffee while the tidyverse R packages are installed (might take a while)
-5. Download the exercise data ([GitHub Link](https://github.com/ZenBrayn/mayinstitute2022-intro-to-r-for-beginners/blob/main/data/exercise_data.zip)), unzip the file and have it available for the workshop.  We will cover what to do with this data during the workshop.
+5. Download the exercise data ([GitHub Link](https://github.com/ZenBrayn/mayinstitute2022-intro-to-r-for-beginners/blob/main/data/exercise_data.zip)), unzip the file and have it available for the workshop.  We will cover what to do with this data during the workshop
 
 ### Using RStudio Cloud
 
 1. Register for a free RStudio Cloud account at: [https://rstudio.cloud/](https://rstudio.cloud/)
 2. Click the RStudio Cloud workspace link provided in the Workshop Document on [https://computationalproteomics.khoury.northeastern.edu](https://computationalproteomics.khoury.northeastern.edu)
-3. Join the workspace.
-4. The necessary exercise files and data are ready to go in the workspace – no additional set-up is required.
+3. Click "Save a Permanent Copy" at the top toolbar; the project is now accessible in "Your Workspace"
+4. The necessary exercise files and data are ready to go in the workspace – no additional set-up is required
 
 
