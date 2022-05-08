@@ -1,7 +1,5 @@
 # May Institute 2022 – Introduction to R for Beginners
 
-## ~~ TENTATIVE - INFORMATION AND MATERIALS IN PROGRESS ~~
-
 **Date**: May 13th & 14th, 2022
 
 **Time**: 11:00 AM – 2:15 PM (Eastern Time)
